@@ -1,2 +1,2 @@
 This is a simple C/S GUI Demo whit Qt5 which could perform chatting between them.
-Now it is not support Chinese yet.
+It only supports English for now.
